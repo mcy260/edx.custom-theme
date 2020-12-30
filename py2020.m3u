@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0,NOTICIAS PY
+http://181.15.91.110/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8
+#EXTINF:0,PARAVISION
+http://cdn.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
+#EXTINF:0,LA_TELE
+http://181.15.111.185/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
+#EXTINF:0,C9N
+http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=1972000.m3u8
+#EXTINF:0,RPC
+http://cdn-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-audio_20000=144800-video=2100000.m3u8
+#EXTINF:0,TELEFUTURO
+http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
+#EXTINF:0,UNICANAL
+http://45.55.127.106/live/unicanal.m3u8
